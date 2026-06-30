@@ -26,7 +26,17 @@ python todo.py
 ```
 
 ## 📷 Preview
-(Add screenshots here)
+Home Screen
+
+<img width="617" height="721" alt="Screenshot 2026-06-30 121555" src="https://github.com/user-attachments/assets/82faccf6-395b-4787-94e0-b8f1bb19e649" />
+
+Task add
+
+<img width="621" height="720" alt="Screenshot 2026-06-30 121709" src="https://github.com/user-attachments/assets/c48fda2b-eca6-421e-bd10-d4955dacaec5" />
+
+Mark done
+
+<img width="623" height="720" alt="Screenshot 2026-06-30 121800" src="https://github.com/user-attachments/assets/8be344ff-d6cc-4b68-a48a-1eba971c4592" />
 
 ## 👨‍💻 Author
 Shivam Mahapatra
